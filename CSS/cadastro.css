@@ -37,6 +37,7 @@ main{
     border-radius: 5px;
     color: #fffbfb;
     font-size: 15px;
+    box-shadow: 2px 2px 5px;
 }
 .formulario h1{
     font-size: 50px;
